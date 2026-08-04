@@ -1,1 +1,1 @@
-# cinema
+Cinema is a mobile app that helps users identify movies and TV shows from a video clip or link, then shows details like the poster, synopsis, cast, ratings, and where to watch. TMDB provides the title metadata and images.
